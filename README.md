@@ -1,4 +1,4 @@
-# real-time-stocks-mds
+
 # Real-Time Stocks Market Data Pipeline
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
